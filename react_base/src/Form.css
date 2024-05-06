@@ -1,0 +1,12 @@
+.container{
+    text-align: center;
+}
+legend{
+    text-align: left;
+}
+#success_message{
+    display: none;
+}
+.form-group{
+    padding-top: 0.5%;
+}

@@ -1,0 +1,23 @@
+.tableCSS {
+  border: 2px solid;
+  border-collapse: collapse;
+}
+
+.tableCSS tr th {
+  border: 1px solid;
+  text-align: center;
+}
+
+.tableCSS tr td {
+  border: 1px solid;
+  text-align: center;
+  width: 2%;
+}
+
+.tableImage {
+  height: auto;
+}
+
+h1{
+  text-align: center;
+}

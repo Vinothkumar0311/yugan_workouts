@@ -1,0 +1,48 @@
+.card {
+  width: 50%;
+  height: 25%;
+  margin: 5.5% auto;
+  text-align: center;
+}
+
+.form{
+  padding: auto;
+}
+
+.form .input-field{
+  margin-top:2%;
+  width: 90%;
+  font-weight: 800;
+}
+
+.form .name-field1{
+  width: 43%;
+  margin-right: 3.5%;
+}
+
+.form .name-field2{
+  width: 43%;
+  margin-left: 1%;
+}
+
+.dropdown{
+  margin-right: 5%;
+}
+
+.form .button{
+  margin-top: 5%;
+  margin: 2.4%;
+  width: 25%;
+  height: 45px;
+  /* background-color: #6d43ea; */
+}
+
+.form .radio{
+  margin-top: 2.54%;
+  margin-left: 5%;
+}
+
+h1{
+  margin-top: 4%;
+  margin-bottom: 2%;
+}
